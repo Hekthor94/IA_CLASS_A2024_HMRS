@@ -1,0 +1,17 @@
+#Text used to the text analysis tool
+Dear Biomedical Engineering Student Who Found the DONTREADME,
+
+Today, I find myself in the midst of my journey as a biomedical engineering student—a path filled with challenges, learning, and moments of satisfaction. As I move forward, I take a moment to write to you, who will follow this same path in the future.
+
+The DONTREADME.txt file you are about to read is a reflection of the knowledge and experiences I have accumulated so far. Perhaps, by the time you read it, some of the concepts and technologies I mention will be outdated, or maybe they will serve as the foundation for advancements we cannot yet imagine. But beyond the data, what I want to share with you is the passion and commitment I have put into every task, into every project.
+
+Biomedical engineering is a discipline in constant evolution, and what we learn and develop today may be only a small part of what you will come to know. However, there is something I know will not change: the importance of curiosity, dedication, and the desire to improve people's lives through technology and science.
+
+If there is one piece of advice I can give you, it is not to be discouraged by difficulties. This path is not easy, but every obstacle overcome will bring you closer to your goal. Take advantage of every opportunity to learn, not only from your professors and books but also from your peers and the experiences life offers you.
+
+I hope this file offers you something valuable, whether it's an idea, a lesson, or simply the motivation to keep moving forward. Remember that we are part of a chain of biomedical engineers striving to make the world a better place, and you will be the next link.
+
+With determination and an unwavering spirit,
+
+Héctor Maximiliano Ramos Salazar
+Biomedical Engineering Student 2024
